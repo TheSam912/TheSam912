@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Sobhan Daroogheh — Software & Mobile Developer · SEO & GEO Specialist" width="100%" />
+  <img src="./assets/header.svg" alt="Sobhan Daroogheh (preferred name: Sam) — Software & Mobile Developer · SEO & GEO Specialist" width="100%" />
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 </p>
 
 ### About
+
+I'm **Sobhan Daroogheh** — preferred name **Sam**.
 
 I turn product requirements into fast, polished **web and mobile apps** — and make sure people can actually find them through **SEO & GEO**.
 
