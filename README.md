@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/tagline.svg" alt="Building mobile apps people use every day" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1600&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;React+Native+-+Flutter+-+Laravel+-+Vue+-+Node;Making+products+easy+to+find+-+SEO+%26+GEO" alt="Typing intro" />
 </p>
 
 <br/>
@@ -28,6 +28,7 @@
 <p align="center">
 I'm <b>Sobhan Daroogheh</b> — preferred name <b>Sam</b>.<br/><br/>
 I turn product requirements into fast, polished <b>web and mobile apps</b> — and make sure people can actually find them through <b>SEO &amp; GEO</b>.<br/><br/>
+Currently rebuilding <b>Fanavaran</b> for Android &amp; iOS in React Native, alongside its CLI, website and backend.<br/>
 Master's in Cybersecurity, University of Padua. Open to projects worldwide.
 </p>
 
@@ -86,6 +87,46 @@ Master's in Cybersecurity, University of Padua. Open to projects worldwide.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/stack.svg" alt="Tech stack" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,kotlin,swift&perline=7" alt="Mobile stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,vue,nextjs,mysql,docker&perline=7" alt="Web & backend stack" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/sec-github.svg" alt="GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheSam912&hide_border=true&border_radius=14&background=050E24&ring=F0B429&fire=F0B429&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0B429&sideLabels=DCE5FF&dates=9FB1E3&stroke=1E3270" alt="GitHub streak" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSam912/TheSam912/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/output/github-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
 </p>
 
 <br/>
