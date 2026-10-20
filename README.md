@@ -44,13 +44,13 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
   <tr>
     <td width="50%" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.fanavaran.app&hl=en">
-        <img src="./assets/work/fanavaran.svg" alt="Fanavaran App" width="100%" />
+        <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/work/fanavaran.svg" alt="Fanavaran App" width="100%" />
       </a>
       <p align="center"><sub><a href="https://play.google.com/store/apps/details?id=com.fanavaran.app&hl=en">Google Play</a> · <a href="https://fanavaran.ca/">fanavaran.ca</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.destinology.co.uk/">
-        <img src="./assets/work/destinology.svg" alt="Destinology" width="100%" />
+        <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/work/destinology.svg" alt="Destinology" width="100%" />
       </a>
       <p align="center"><sub><a href="https://www.destinology.co.uk/">destinology.co.uk</a></sub></p>
     </td>
@@ -58,13 +58,13 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
   <tr>
     <td width="50%" valign="top">
       <a href="https://wealthio.ir/">
-        <img src="./assets/work/wealthio.svg" alt="Wealthio" width="100%" />
+        <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/work/wealthio.svg" alt="Wealthio" width="100%" />
       </a>
       <p align="center"><sub><a href="https://wealthio.ir/">wealthio.ir</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.niu-nature.app/">
-        <img src="./assets/work/niu.svg" alt="NIU Nature" width="100%" />
+        <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/work/niu.svg" alt="NIU Nature" width="100%" />
       </a>
       <p align="center"><sub><a href="https://www.niu-nature.app/">niu-nature.app</a></sub></p>
     </td>

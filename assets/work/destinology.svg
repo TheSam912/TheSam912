@@ -1,11 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="t">
   <title id="t">Destinology</title>
   <defs>
-    <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=Outfit:wght@400;500;600&amp;display=swap');
-      .t { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; }
-      .b { font-family: 'Outfit', 'Segoe UI', Helvetica, Arial, sans-serif; }
-    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071433"/>
       <stop offset="1" stop-color="#12285A"/>
@@ -16,16 +12,14 @@
     <rect width="560" height="220" fill="url(#bg)"/>
     <rect x="0" y="0" width="560" height="220" fill="none" stroke="#F0B429" stroke-opacity="0.28" stroke-width="1"/>
     <rect x="0" y="0" width="3" height="220" fill="#F0B429" fill-opacity="0.85"/>
-
-    <text x="28" y="42" class="b" font-size="11" font-weight="500" letter-spacing="2.4" fill="#F0B429">TRAVEL  ·  COREFINITY</text>
-    <text x="28" y="88" class="t" font-size="32" fill="#FFFFFF">Destinology</text>
-    <text x="28" y="118" class="b" font-size="14" font-weight="400" fill="#9FB1E3">Laravel &amp; Vue.js Developer</text>
-    <text x="28" y="152" class="b" font-size="13" font-weight="400" fill="#DCE5FF">Core booking  destinations, flights, hotels</text>
-    <text x="28" y="172" class="b" font-size="13" font-weight="400" fill="#DCE5FF">&amp; extras for thousands of travellers.</text>
-
+    <text x="28" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#F0B429">TRAVEL  |  COREFINITY</text>
+    <text x="28" y="88" font-family="Georgia, Times New Roman, serif" font-size="32" font-weight="700" fill="#FFFFFF">Destinology</text>
+    <text x="28" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#9FB1E3">Laravel &amp; Vue.js Developer</text>
+    <text x="28" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#DCE5FF">Core booking - destinations, flights, hotels</text>
+    <text x="28" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#DCE5FF">&amp; extras for thousands of travellers.</text>
     <rect x="28" y="192" width="62" height="18" rx="4" fill="#F0B429" fill-opacity="0.12"/>
-    <text x="36" y="205" class="b" font-size="10" font-weight="500" fill="#F8D16A">Laravel</text>
+    <text x="36" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#F8D16A">Laravel</text>
     <rect x="98" y="192" width="54" height="18" rx="4" fill="#F0B429" fill-opacity="0.12"/>
-    <text x="106" y="205" class="b" font-size="10" font-weight="500" fill="#F8D16A">Vue.js</text>
+    <text x="106" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#F8D16A">Vue.js</text>
   </g>
 </svg>
