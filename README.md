@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1600&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;React+Native+%C2%B7+Flutter+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+Node;Making+products+easy+to+find+%E2%80%94+in+search+and+in+AI+answers" alt="Typing intro" />
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/tagline.svg" alt="Building mobile apps people use every day" width="100%" />
 </p>
 
 <br/>
