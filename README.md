@@ -32,8 +32,8 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,kotlin,swift,androidstudio&perline=7" alt="Mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nextjs,nodejs,mysql,docker&perline=7" alt="Web & backend" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,kotlin,swift&perline=7" alt="Mobile" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,expo,php,laravel,vue,nextjs,docker&perline=7" alt="Web & backend" />
 </p>
 
 <br/>
@@ -73,7 +73,15 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
 
 <br/>
 
-### GitHub
+### Focus vs public GitHub
+
+Public language charts only count **public** repos. Most of my current **React Native / Fanavaran** work is in private or company repos — so it will not dominate the auto charts below. This card reflects what I am actually shipping:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/focus.svg" alt="Current focus: React Native at Fanavaran" width="100%" />
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -85,7 +93,7 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language (public only)" width="49%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
