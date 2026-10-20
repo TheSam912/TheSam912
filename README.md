@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Sobhan Daroogheh (preferred name: Sam) — Software & Mobile Developer · SEO & GEO Specialist" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/header.svg" alt="Sobhan Daroogheh (preferred name: Sam) — Software & Mobile Developer · SEO & GEO Specialist" width="100%" />
 </p>
 
 <p align="center">
@@ -10,35 +10,42 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&pause=1600&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;Flutter+%C2%B7+React+Native+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+Node;Making+products+easy+to+find+%E2%80%94+in+search+and+in+AI+answers" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1600&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;React+Native+%C2%B7+Flutter+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+Node;Making+products+easy+to+find+%E2%80%94+in+search+and+in+AI+answers" alt="Typing intro" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/metrics.svg" alt="8+ years · 15+ apps · +45% engagement" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/metrics.svg" alt="8+ years · 15+ apps · +45% engagement" width="100%" />
 </p>
 
-### About
-
-I'm **Sobhan Daroogheh** — preferred name **Sam**.
-
-I turn product requirements into fast, polished **web and mobile apps** — and make sure people can actually find them through **SEO & GEO**.
-
-Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside its CLI, website and backend. Master's in Cybersecurity, University of Padua. Open to projects worldwide.
-
 <br/>
-
-### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,kotlin,swift&perline=7" alt="Mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,expo,php,laravel,vue,nextjs,docker&perline=7" alt="Web & backend" />
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/sec-about.svg" alt="About" width="100%" />
+</p>
+
+<p align="center">
+I'm <b>Sobhan Daroogheh</b> — preferred name <b>Sam</b>.<br/><br/>
+I turn product requirements into fast, polished <b>web and mobile apps</b> — and make sure people can actually find them through <b>SEO &amp; GEO</b>.<br/><br/>
+Master's in Cybersecurity, University of Padua. Open to projects worldwide.
 </p>
 
 <br/>
 
-### Selected work
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/sec-now.svg" alt="Now" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/focus.svg" alt="Now shipping: React Native at Fanavaran" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/sec-work.svg" alt="Selected work" width="100%" />
+</p>
 
 <table>
   <tr>
@@ -73,47 +80,18 @@ Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside 
 
 <br/>
 
-### Focus vs public GitHub
-
-Public language charts only count **public** repos. Most of my current **React Native / Fanavaran** work is in private or company repos — so it will not dominate the auto charts below. This card reflects what I am actually shipping:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/sec-stack.svg" alt="Stack" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/focus.svg" alt="Current focus: React Native at Fanavaran" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/stack.svg" alt="Tech stack" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language (public only)" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="49%" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSam912&hide_border=true&border_radius=14&background=050E24&ring=F0B429&fire=F0B429&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0B429&sideLabels=DCE5FF&dates=9FB1E3&stroke=1E3270" alt="GitHub streak" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSam912/TheSam912/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/output/github-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <sub>Let's build something people love to use — <a href="mailto:The.Sam.Nolan1998@gmail.com">The.Sam.Nolan1998@gmail.com</a></sub>
+  <a href="mailto:The.Sam.Nolan1998@gmail.com">
+    <img src="https://raw.githubusercontent.com/TheSam912/TheSam912/main/assets/footer.svg" alt="Contact Sam" width="100%" />
+  </a>
 </p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="STACK">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8D16A"/>
+      <stop offset="1" stop-color="#E59A12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="56" fill="#050E24" rx="10"/>
+  <rect x="0" y="0" width="3" height="56" fill="#F0B429"/>
+  <text x="28" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="url(#g)">STACK</text>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Contact">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050E24"/>
+      <stop offset="1" stop-color="#12285A"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="120" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="120" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="1" fill="#F0B429" fill-opacity="0.3"/>
+    <text x="600" y="52" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="26" fill="#FFFFFF">Ready to build something people love</text>
+    <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#F0B429">The.Sam.Nolan1998@gmail.com</text>
+  </g>
+</svg>

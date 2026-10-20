@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Tech stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050E24"/>
+      <stop offset="1" stop-color="#0F2257"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="200" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+    <rect x="0" y="0" width="3" height="200" fill="#F0B429"/>
+
+    <text x="40" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#F0B429">MOBILE</text>
+    <text x="40" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#FFFFFF">React Native   Flutter   TypeScript   Kotlin   Swift</text>
+
+    <line x1="40" y1="100" x2="1160" y2="100" stroke="#F0B429" stroke-opacity="0.18"/>
+
+    <text x="40" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#F0B429">WEB  &amp;  BACKEND</text>
+    <text x="40" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#FFFFFF">Laravel   Vue   Next.js   Node.js   MySQL   Docker</text>
+  </g>
+</svg>
