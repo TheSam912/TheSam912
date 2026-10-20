@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128" role="img" aria-label="Career metrics">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=Outfit:wght@400;500;600&amp;display=swap');
+      .n { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; }
+      .l { font-family: 'Outfit', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071433"/>
+      <stop offset="1" stop-color="#0F2257"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8D16A"/>
+      <stop offset="1" stop-color="#E59A12"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="128" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="128" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="1" fill="#F0B429" fill-opacity="0.25"/>
+
+    <!-- col 1 -->
+    <text x="200" y="58" text-anchor="middle" class="n" font-size="42" fill="url(#gold)">8+</text>
+    <text x="200" y="92" text-anchor="middle" class="l" font-size="13" letter-spacing="2" fill="#9FB1E3">YEARS SHIPPING</text>
+
+    <line x1="400" y1="36" x2="400" y2="96" stroke="#F0B429" stroke-opacity="0.22" stroke-width="1"/>
+
+    <!-- col 2 -->
+    <text x="600" y="58" text-anchor="middle" class="n" font-size="42" fill="url(#gold)">15+</text>
+    <text x="600" y="92" text-anchor="middle" class="l" font-size="13" letter-spacing="2" fill="#9FB1E3">APPS &amp; PLATFORMS</text>
+
+    <line x1="800" y1="36" x2="800" y2="96" stroke="#F0B429" stroke-opacity="0.22" stroke-width="1"/>
+
+    <!-- col 3 -->
+    <text x="1000" y="58" text-anchor="middle" class="n" font-size="42" fill="url(#gold)">+45%</text>
+    <text x="1000" y="92" text-anchor="middle" class="l" font-size="13" letter-spacing="2" fill="#9FB1E3">ENGAGEMENT LIFT</text>
+  </g>
+</svg>

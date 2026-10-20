@@ -10,83 +10,68 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;Flutter+%C2%B7+React+Native+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+Node;Making+products+easy+to+find+%E2%80%94+in+search+and+in+AI+answers" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&pause=1600&color=F0B429&center=true&vCenter=true&width=720&lines=Building+mobile+apps+people+use+every+day;Flutter+%C2%B7+React+Native+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+Node;Making+products+easy+to+find+%E2%80%94+in+search+and+in+AI+answers" alt="Typing intro" />
 </p>
 
----
-
-### About me
-
-I turn product requirements into fast, polished **web and mobile apps** — and make sure people can actually find them.
-
-- 📱 **Now:** rebuilding the **Fanavaran** app for Android & iOS in React Native, plus its CLI, website and backend
-- 🚀 **8+ years** shipping production apps — **15+ apps & platforms**, up to **45% engagement uplift**
-- 🔎 Second skill set: **SEO & GEO** (Generative Engine Optimization) — visibility in Google *and* in AI answer engines
-- 🎓 **Master's in Cybersecurity** — University of Padua, Italy
-- 🌍 Open to projects worldwide
-
 <br/>
-
-### Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,kotlin,swift,androidstudio&perline=8" alt="Mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nextjs,nodejs,express,tailwind,graphql&perline=8" alt="Web & backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,docker,aws,gcp&perline=8" alt="Data & cloud" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,linux&perline=8" alt="Tools" />
+  <img src="./assets/metrics.svg" alt="8+ years · 15+ apps · +45% engagement" width="100%" />
+</p>
+
+### About
+
+I turn product requirements into fast, polished **web and mobile apps** — and make sure people can actually find them through **SEO & GEO**.
+
+Currently rebuilding **Fanavaran** for Android & iOS in React Native, alongside its CLI, website and backend. Master's in Cybersecurity, University of Padua. Open to projects worldwide.
+
+<br/>
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,kotlin,swift,androidstudio&perline=7" alt="Mobile" /><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nextjs,nodejs,mysql,docker&perline=7" alt="Web & backend" />
 </p>
 
 <br/>
 
-### Featured work
+### Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Fanavaran App</h4>
-      <sub>Mobile Application Developer · 2026 — now</sub>
-      <p>Android & iOS app rebuilt from the ground up — courses, live classes, payments and certificates. Live on Google Play.</p>
-      <img src="https://img.shields.io/badge/React%20Native-0B1A3F?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-0B1A3F?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/Node.js-0B1A3F?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-      <br/><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.fanavaran.app&hl=en">Google Play ↗</a> · <a href="https://fanavaran.ca/">fanavaran.ca ↗</a>
+      <a href="https://play.google.com/store/apps/details?id=com.fanavaran.app&hl=en">
+        <img src="./assets/work/fanavaran.svg" alt="Fanavaran App" width="100%" />
+      </a>
+      <p align="center"><sub><a href="https://play.google.com/store/apps/details?id=com.fanavaran.app&hl=en">Google Play</a> · <a href="https://fanavaran.ca/">fanavaran.ca</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4>✈️ Destinology</h4>
-      <sub>Laravel & Vue.js Developer · Corefinity</sub>
-      <p>Core booking flows — destination search, flights, hotels and extras — for a holiday platform used by thousands of travellers.</p>
-      <img src="https://img.shields.io/badge/Laravel-0B1A3F?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Vue.js-0B1A3F?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-      <br/><br/>
-      <a href="https://www.destinology.co.uk/">destinology.co.uk ↗</a>
+      <a href="https://www.destinology.co.uk/">
+        <img src="./assets/work/destinology.svg" alt="Destinology" width="100%" />
+      </a>
+      <p align="center"><sub><a href="https://www.destinology.co.uk/">destinology.co.uk</a></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💰 Wealthio</h4>
-      <sub>Founder & Full-Stack</sub>
-      <p>A PWA owned end to end, from UI/UX to backend — Next.js frontend with a Laravel API.</p>
-      <img src="https://img.shields.io/badge/Next.js-0B1A3F?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Laravel-0B1A3F?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-      <br/><br/>
-      <a href="https://wealthio.ir/">wealthio.ir ↗</a>
+      <a href="https://wealthio.ir/">
+        <img src="./assets/work/wealthio.svg" alt="Wealthio" width="100%" />
+      </a>
+      <p align="center"><sub><a href="https://wealthio.ir/">wealthio.ir</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌿 NIU Nature</h4>
-      <sub>Flutter Developer · Healthcare</sub>
-      <p>Daily health programs from German physicians. Health dashboard drove <b>+45% engagement</b> and <b>+20% revenue</b> in six months.</p>
-      <img src="https://img.shields.io/badge/Flutter-0B1A3F?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Firebase-0B1A3F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-      <br/><br/>
-      <a href="https://www.niu-nature.app/">niu-nature.app ↗</a>
+      <a href="https://www.niu-nature.app/">
+        <img src="./assets/work/niu.svg" alt="NIU Nature" width="100%" />
+      </a>
+      <p align="center"><sub><a href="https://www.niu-nature.app/">niu-nature.app</a></sub></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### GitHub at a glance
+### GitHub
 
 <p align="center">
   <picture>
@@ -107,7 +92,7 @@ I turn product requirements into fast, polished **web and mobile apps** — and 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSam912&hide_border=true&border_radius=16&background=0B1A3F&ring=F0B429&fire=F0B429&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0B429&sideLabels=DCE5FF&dates=9FB1E3&stroke=1E3270" alt="GitHub streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=TheSam912&hide_border=true&border_radius=14&background=050E24&ring=F0B429&fire=F0B429&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0B429&sideLabels=DCE5FF&dates=9FB1E3&stroke=1E3270" alt="GitHub streak" width="100%" />
 </p>
 
 <p align="center">

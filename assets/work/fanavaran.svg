@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="t">
+  <title id="t">Fanavaran App</title>
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=Outfit:wght@400;500;600&amp;display=swap');
+      .t { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; }
+      .b { font-family: 'Outfit', 'Segoe UI', Helvetica, Arial, sans-serif; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071433"/>
+      <stop offset="1" stop-color="#12285A"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="560" height="220" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="560" height="220" fill="url(#bg)"/>
+    <rect x="0" y="0" width="560" height="220" fill="none" stroke="#F0B429" stroke-opacity="0.28" stroke-width="1"/>
+    <rect x="0" y="0" width="3" height="220" fill="#F0B429" fill-opacity="0.85"/>
+
+    <text x="28" y="42" class="b" font-size="11" font-weight="500" letter-spacing="2.4" fill="#F0B429">FEATURED  ·  2026</text>
+    <text x="28" y="88" class="t" font-size="32" fill="#FFFFFF">Fanavaran App</text>
+    <text x="28" y="118" class="b" font-size="14" font-weight="400" fill="#9FB1E3">Mobile Application Developer</text>
+    <text x="28" y="152" class="b" font-size="13" font-weight="400" fill="#DCE5FF">Android &amp; iOS rebuilt  courses, live classes,</text>
+    <text x="28" y="172" class="b" font-size="13" font-weight="400" fill="#DCE5FF">payments &amp; certificates. Live on Google Play.</text>
+
+    <rect x="28" y="192" width="92" height="18" rx="4" fill="#F0B429" fill-opacity="0.12"/>
+    <text x="36" y="205" class="b" font-size="10" font-weight="500" fill="#F8D16A">React Native</text>
+    <rect x="128" y="192" width="48" height="18" rx="4" fill="#F0B429" fill-opacity="0.12"/>
+    <text x="136" y="205" class="b" font-size="10" font-weight="500" fill="#F8D16A">Expo</text>
+    <rect x="184" y="192" width="58" height="18" rx="4" fill="#F0B429" fill-opacity="0.12"/>
+    <text x="192" y="205" class="b" font-size="10" font-weight="500" fill="#F8D16A">Node.js</text>
+  </g>
+</svg>

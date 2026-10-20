@@ -1,68 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
   <title id="t">Sobhan Daroogheh</title>
   <desc id="d">Software &amp; Mobile Developer · SEO &amp; GEO Specialist</desc>
   <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&amp;family=Outfit:wght@400;500;600&amp;display=swap');
+      .name { font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif; font-weight: 700; }
+      .role { font-family: 'Outfit', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; }
+      .meta { font-family: 'Outfit', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; }
+      .mark { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; font-style: italic; }
+    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071433"/>
-      <stop offset="0.55" stop-color="#0F2257"/>
-      <stop offset="1" stop-color="#172E6A"/>
+      <stop offset="0" stop-color="#050E24"/>
+      <stop offset="0.45" stop-color="#0A1840"/>
+      <stop offset="1" stop-color="#132A5C"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#F8D16A"/>
-      <stop offset="1" stop-color="#E59A12"/>
+      <stop offset="0.5" stop-color="#F0B429"/>
+      <stop offset="1" stop-color="#C9890E"/>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFF4D6" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#FFF8E7" stop-opacity="0.95"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0B429" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F0B429" stop-opacity="0"/>
+    </linearGradient>
     <radialGradient id="glowGold" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#F0B429" stop-opacity="0.28"/>
+      <stop offset="0" stop-color="#F0B429" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#F0B429" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#5B8CFF" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#6B93FF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#6B93FF" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity="0.07"/>
+    <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.6" fill="#FFFFFF" fill-opacity="0.035"/>
     </pattern>
-    <clipPath id="round"><rect width="1200" height="320" rx="22"/></clipPath>
+    <clipPath id="round"><rect width="1200" height="340" rx="18"/></clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <rect width="1200" height="320" fill="url(#bg)"/>
-    <rect width="1200" height="320" fill="url(#dots)"/>
-    <circle cx="1040" cy="40" r="260" fill="url(#glowBlue)"/>
-    <circle cx="120" cy="300" r="220" fill="url(#glowGold)"/>
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grain)"/>
+    <circle cx="1080" cy="-20" r="280" fill="url(#glowBlue)"/>
+    <circle cx="80" cy="360" r="240" fill="url(#glowGold)"/>
 
-    <!-- code brackets motif -->
-    <g fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M930 110 L880 160 L930 210"/>
-      <path d="M1050 110 L1100 160 L1050 210"/>
-      <path d="M1010 95 L970 225"/>
-    </g>
+    <!-- left gold edge -->
+    <rect x="0" y="0" width="3" height="340" fill="url(#edge)"/>
 
-    <!-- kicker -->
-    <g transform="translate(72 82)">
-      <rect width="272" height="34" rx="17" fill="#F0B429" fill-opacity="0.14" stroke="#F0B429" stroke-opacity="0.45"/>
-      <circle cx="20" cy="17" r="5" fill="#F0B429">
-        <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
-      </circle>
-      <text x="34" y="22.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F8D16A" letter-spacing="0.6">AVAILABLE FOR PROJECTS</text>
+    <!-- quiet bracket motif -->
+    <g fill="none" stroke="#F0B429" stroke-opacity="0.12" stroke-width="1.5" stroke-linecap="round">
+      <path d="M980 118 H1010 V148"/>
+      <path d="M1120 118 H1090 V148"/>
+      <path d="M980 222 H1010 V192"/>
+      <path d="M1120 222 H1090 V192"/>
     </g>
+    <text x="1050" y="178" text-anchor="middle" class="mark" font-size="42" fill="#F0B429" fill-opacity="0.18">SD</text>
+
+    <!-- eyebrow -->
+    <text x="72" y="88" class="meta" font-size="13" letter-spacing="3.2" fill="#F0B429" fill-opacity="0.9">SOFTWARE  ·  MOBILE  ·  SEARCH</text>
 
     <!-- name -->
-    <text x="70" y="182" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Sobhan Daroogheh</text>
+    <text x="70" y="168" class="name" font-size="72" fill="#FFFFFF" letter-spacing="-1.2">Sobhan Daroogheh</text>
 
-    <!-- gold rule with a slow shine -->
-    <rect x="72" y="204" width="120" height="5" rx="2.5" fill="url(#gold)"/>
-    <rect x="72" y="204" width="40" height="5" rx="2.5" fill="url(#shine)">
-      <animate attributeName="x" values="72;152;72" dur="5s" repeatCount="indefinite"/>
+    <!-- gold rule + slow shine -->
+    <rect x="72" y="192" width="88" height="2" rx="1" fill="url(#gold)"/>
+    <rect x="72" y="192" width="28" height="2" rx="1" fill="url(#shine)">
+      <animate attributeName="x" values="72;132;72" dur="6.5s" repeatCount="indefinite"/>
     </rect>
 
     <!-- role -->
-    <text x="72" y="248" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#DCE5FF">Software &amp; Mobile Developer <tspan fill="#F0B429">·</tspan> SEO &amp; GEO Specialist</text>
-    <text x="72" y="282" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#9FB1E3" letter-spacing="0.4">Flutter  ·  React Native  ·  Laravel  ·  Vue.js  ·  Next.js  ·  Node.js</text>
+    <text x="72" y="238" class="role" font-size="22" fill="#DCE5FF">Software &amp; Mobile Developer <tspan fill="#F0B429">·</tspan> SEO &amp; GEO Specialist</text>
+    <text x="72" y="274" class="meta" font-size="15" fill="#8FA3D4" letter-spacing="0.8">Flutter   React Native   Laravel   Vue   Next.js   Node</text>
+
+    <!-- signature -->
+    <text x="1128" y="308" text-anchor="end" class="mark" font-size="16" fill="#F0B429" fill-opacity="0.55">TheSam912</text>
   </g>
 </svg>
